@@ -1,4 +1,4 @@
-<img width="848" height="1024" alt="image" src="https://github.com/user-attachments/assets/c870bd32-9447-4066-b18a-7e87cf79d643" /># PromptGallery
+# PromptGallery
 
 | No | Image | Prompt |
 |-------|-------|--------|
