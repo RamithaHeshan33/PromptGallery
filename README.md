@@ -1,4 +1,4 @@
-# PromptGallery
+<img width="848" height="1024" alt="image" src="https://github.com/user-attachments/assets/c870bd32-9447-4066-b18a-7e87cf79d643" /># PromptGallery
 
 | No | Image | Prompt |
 |-------|-------|--------|
@@ -11,6 +11,7 @@
 | 07 | <img src="https://github.com/user-attachments/assets/ec3e3285-ed29-40c2-ac2d-df192cc58efe" width="900"/> | *Make the person on the photo, wearing a black suite with boss looking, standing on a street, a bustling crowd around her blurred by motion, shallow depth of field so her face is razor-sharp, damaged-film aesthetics with visible grain, dust, and scratches, high contrast, cinematic composition, moody.* |
 | 08 | <img src="https://github.com/user-attachments/assets/e2803736-51cf-425e-9230-7b0a8493073c" width="900"/> | *wearing a green Squid Game tracksuit with player number "033", smiling confidently. Surrounding them are the top 5 characters from Squid Game: Gi-hun (456), Sang-woo (218), Sae-byeok (067), Ali (199), and Il-nam (001), each in their iconic green tracksuits with accurate facial features* |
 | 09 | <img src="https://github.com/user-attachments/assets/bd58fdda-e553-4473-b114-73229d6b0975" width="900"/> | *Wearing a Hawkins High School jacket and standing confidently in front of the Hawkins Middle School sign, smiling with determination. Surrounding them are the top 5 main characters from Stranger Things: Eleven (with her shaved head or ponytail and bloody nose), Mike Wheeler (holding a flashlight), Dustin Henderson (with his signature cap and curly hair), Lucas Sinclair (armed with a slingshot), and Will Byers (in his vintage striped shirt), all in their recognizable outfits and with accurate facial features. The background shows a moody, supernatural atmosphere with a hint of the Upside Down creeping in, including floating particles and eerie red lighting.* |
+| 10 | <img src="https://github.com/user-attachments/assets/f5b4ff75-6705-4105-9047-9d1f084fc90b" width="900"/> | *A beautiful woman with long, dark, curly hair wearing a white, off-the-shoulder lace gown with floral details, holding an antique lantern that casts a warm glow. She is standing in a misty, ethereal landscape with soft, out-of-focus hills in the background and a subtle haze on the ground, creating a mystical and dreamlike atmosphere. The lighting is dim but highlights the lantern and her face.* |
 
 
 
